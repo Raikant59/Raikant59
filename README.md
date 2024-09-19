@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Projects related to App Development**
 
-- 💬 Ask me about **Flutter ,Firebase**
+- 💬 Ask me about **Flutter ,Firebase ,Java ,C++**
 
 - 📫 How to reach me **rakantkumar1234@gmail.com**
 
